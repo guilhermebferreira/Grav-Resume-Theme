@@ -1,41 +1,35 @@
 ---
-title: DESIGN SKILLS
+title: PROGRAMING SKILLS
 date: 13:34 04/21/2014
 
-column1_name: 01 Computer
+column1_name: 01 Skills
 column1_animation: fadeIn
 column2_name: 02 Knowledge
 column2_animation: fadeIn
 
 column1:
-  - name: Adobe Photoshop
-    level: 8
-  - name: Adobe Illustrator
+  - name: PHP
+    level: 9
+  - name: Python
     level: 8  
-  - name: Adobe Indesign
-    level: 6  
-  - name: Adobe Flash
+  - name: SQL Server & MySQL
     level: 7  
   - name: "HTML & CSS"
-    level: 8 
+    level: 6 
   - name: "Javascript & Jquery"
-    level: 3
-  - name: AutoCad
+    level: 4
+  - name: Joomla CMS
     level: 8
-  - name: CATIA
-    level: 8 
-  - name: 3ds Max
-    level: 3
-  - name: Cinema 4D
-    level: 4           
+  - name: Moodle
+    level: 4
+  - name: Alfresco
+    level: 4
+  - name: Git
+    level: 6           
 
 column2:
-  - name: Grid & Layout.
-  - name: Good sense for typography.
-  - name: Color theory knowledge.
-  - name: Web usability.
-  - name: Interface Design.
-  - name: Google Analytics & SEO.
+  - name: Web development with Python & Django.
+  - name: Extensive experience working with Joomla.
     
 taxonomy:
     category: left

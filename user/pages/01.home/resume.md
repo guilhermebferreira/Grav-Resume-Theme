@@ -1,5 +1,5 @@
 ---
-title: Resume
+title: Resume1
 blog_url: resume
 
 sitemap:

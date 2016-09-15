@@ -3,7 +3,7 @@ title: LANGUAGE SKILLS
 date: 13:34 02/21/2014
 
 languages:
-  - name: Spanish
+  - name: Portuguese
     level_name: Mother Language
     level: 100
     animation: bounceIn

@@ -2,14 +2,14 @@
 title: MY SPECIALITIES
 date: 13:34 05/21/2014 
 specialities:
-    - icon: lightbulb
-      text: Logo Design
+    - icon: web
+      text: Web Development
       animation: fadeInDown
-    - icon: page-multiple
-      text: Branding 
+    - icon: lightbulb
+      text: Software Design 
       animation: fadeInUp
-    - icon: results
-      text: Minimal Web Design
+    - icon: laptop
+      text: Software Development
       animation: fadeInLeft
 taxonomy:
     category: left
