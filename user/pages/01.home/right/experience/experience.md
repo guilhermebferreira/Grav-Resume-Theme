@@ -8,9 +8,9 @@ experience:
     company: TCE - TO
     years: 3
     animation: fadeIn
-  - date: From 2011 to January 2013
-    role: Tins Sistemas para Escritório
-    company: Programmer.
+  - date: From 2011 to January 2013 
+    role: Programmer.
+    company: Tins Sistemas para Escritório
     years: 1
     animation: fadeIn
 
